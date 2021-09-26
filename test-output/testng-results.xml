@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-26T16:53:44 AEST" name="Default suite" finished-at="2021-09-26T16:54:53 AEST" duration-ms="68916">
+    <groups>
+    </groups>
+    <test started-at="2021-09-26T16:53:44 AEST" name="Default test" finished-at="2021-09-26T16:54:53 AEST" duration-ms="68916">
+      <class name="TestCases.TC2_VerifyArticleWithLogs">
+        <test-method is-config="true" signature="launchapplicationAndNavigatetoArticle()[pri:0, instance:TestCases.TC2_VerifyArticleWithLogs@94f6bfb]" started-at="2021-09-26T16:53:44 AEST" name="launchapplicationAndNavigatetoArticle" finished-at="2021-09-26T16:54:47 AEST" duration-ms="63335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplicationAndNavigatetoArticle -->
+        <test-method signature="VerifyArticle()[pri:0, instance:TestCases.TC2_VerifyArticleWithLogs@94f6bfb]" started-at="2021-09-26T16:54:47 AEST" name="VerifyArticle" finished-at="2021-09-26T16:54:51 AEST" duration-ms="3497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyArticle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC2_VerifyArticleWithLogs@94f6bfb]" started-at="2021-09-26T16:54:51 AEST" name="tearDown" finished-at="2021-09-26T16:54:53 AEST" duration-ms="1902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC2_VerifyArticleWithLogs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
